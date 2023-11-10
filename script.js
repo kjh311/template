@@ -1,0 +1,4 @@
+//jquery
+$(function () {
+  //   alert("jquery");
+});
